@@ -7,7 +7,7 @@ from datetime import datetime
 # --- CONFIGURATION ---
 USERS_FILE = "users.csv"
 ATTENDANCE_FILE = "attendance.csv"
-ADMIN_PASSWORD = "admin123"  # Change this to your preferred admin password
+ADMIN_PASSWORD = "Git@2006"  # Change this to your preferred admin password
 
 # --- INITIAL SETUP ---
 def init_files():
